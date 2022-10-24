@@ -1,0 +1,8 @@
+name: PipeBomb
+version: '${project.version}'
+main: me.praenyth.plugins.pipebomb.PipeBomb
+api-version: 1.19
+prefix: Pipebomb
+authors: [ Praenyth ]
+description: Great Pipebombs!
+website: https://twitter.com/praenyth
